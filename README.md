@@ -9,6 +9,11 @@
 [ ] 5. 𝗖𝗼𝗼𝗸𝗶𝗲𝘀 𝗡𝗲𝘁𝗳𝗹𝗶𝘅 𝗮𝗻𝗱 𝗼𝘁𝗵𝗲𝗿
 [ ] 6. 𝗚𝗶𝘃𝗲𝗮𝘄𝗮𝘆𝘀
 [ ] 7. 𝗮𝗻𝗱 𝗺𝗼𝗿𝗲..
+
+
 **[](https://discord.gg/Dz2WvUA6uF)**
+
+
+
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/106864876/179424426-29262e35-ab7b-4701-8ce3-8ed7db3d592b.svg)
