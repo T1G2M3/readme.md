@@ -19,7 +19,7 @@
 [ ] 7. 𝗮𝗻𝗱 𝗺𝗼𝗿𝗲..
 
 
-[https://discord.gg/Dz2WvUA6uF]()
+[https://discord.gg/redlinevip-band ]()
 
 
 
